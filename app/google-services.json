@@ -1,0 +1,30 @@
+
+{
+  "project_info": {
+    "project_number": "582315154011",
+    "project_id": "basegym-dc16f",
+    "storage_bucket": "basegym-dc16f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582315154011:android:96485e73f51450349b7d7e",
+        "android_client_info": {
+          "package_name": "com.example.runnerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5o6QpiLkFI_TmSSkNM_jss56_9WCB9gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
